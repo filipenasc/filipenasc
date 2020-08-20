@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**filipenasc/filipenasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Filipe, a brazilian Software Engineer :brazil: and gratuaded in Internet Systems. I'm currently working on the Ecosystem Team, at the leading ["martech" company](https://martechtoday.com/library/what-is-martech) in Brazil.
 
-Here are some ideas to get you started:
+### :books: Recent studies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the last few months I've been focused on explore these topics deeper:
+
+- API Design
+- Golang
+- Software Architecture
+
+### :nerd_face: Interests
+
+Here are some topics (other than programming) that interest me:
+
+- :telescope: Astronomy
+- :briefcase: Entrepreneurship
+- :moneybag: Investments
+- :musical_note: Musical Production/Mixing
+
+### Get in touch
+
+ - [Linkedin](https://www.linkedin.com/in/filipemn/)
+ - [Twitter](https://twitter.com/filipemn)
