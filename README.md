@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Filipe, a brazilian Software Engineer :brazil: and gratuaded in Internet Systems. I'm currently working on the Ecosystem Team, at the leading ["martech" company](https://martechtoday.com/library/what-is-martech) in Brazil.
+I'm Filipe, a brazilian Software Engineer :brazil: and graduated in Internet Systems. I'm currently working on the Ecosystem Team, at the leading ["martech" company](https://martechtoday.com/library/what-is-martech) in Brazil.
 
 ### :books: Recent studies
 
