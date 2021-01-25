@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Filipe, a brazilian Software Engineer :brazil: and graduated in Internet Systems. I'm currently working on the Ecosystem Team, at the leading ["martech" company](https://martechtoday.com/library/what-is-martech) in Brazil.
+I'm Filipe, a brazilian Software Engineer :brazil: and graduated in Internet Systems. I'm currently working remotely as a Full Stack Engineer at [AE Studio](https://ae.studio/).
 
 ### :books: Recent studies
 
-In the last few months I've been focused on explore these topics deeper:
+Lately I've been focused on explore these topics deeper:
 
 - API Design
 - Golang
