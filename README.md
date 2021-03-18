@@ -4,11 +4,11 @@ I'm Filipe, a brazilian Software Engineer :brazil: and graduated in Internet Sys
 
 ### :books: Recent studies
 
-Lately I've been focused on explore these topics deeper:
+These are some topics I've been focusing on lately:
 
-- API Design
 - Golang
 - Software Architecture
+- React JS
 
 ### :nerd_face: Interests
 
@@ -22,4 +22,3 @@ Here are some topics (other than programming) that interest me:
 ### Get in touch
 
  - [Linkedin](https://www.linkedin.com/in/filipemn/)
- - [Twitter](https://twitter.com/filipemn)
