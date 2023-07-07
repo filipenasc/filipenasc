@@ -1,6 +1,6 @@
-### Hi there 👋
+Hey 👋
 
-I'm Filipe, a brazilian Software Engineer :brazil:, graduated in Internet Systems and currently working at [Wonolo](https://www.wonolo.com/).
+I'm Filipe, a Software Engineer with 9+ years of experience solving problems from diverse industries.
 
 ### Get in touch
 
